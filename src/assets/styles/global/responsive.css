@@ -1,0 +1,7 @@
+@media screen and (max-width: 768px) {
+
+    .m_content{
+        background-color: red !important;
+    }
+    
+}

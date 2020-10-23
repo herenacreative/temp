@@ -1,0 +1,6 @@
+@import './global/m_auth.css';
+@import './global/responsive.css';
+
+.font_size{
+    color: orange;
+}
